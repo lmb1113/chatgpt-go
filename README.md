@@ -12,8 +12,7 @@ openai的注册方式网上有很多，这里就不作过多赘述了。
 
 https://openai.com/
 
-![](file://C:\Users\Administrator\AppData\Roaming\marktext\images\2023-02-10-10-55-30-image.png?msec=1675997730977)
-
+![](https://s3.bmp.ovh/imgs/2023/02/10/cda3214d6db251ea.png)
 ## 环境
 
 个人环境是go 1.17.10，没有什么特殊的包，应该没有go版本限制
