@@ -1,8 +1,8 @@
-## 
+##
 
 ## 演示
 
-![](C:\Users\Administrator\AppData\Roaming\marktext\images\2023-02-10-10-57-40-bacbc198d8e0232224bbb8d8e0f6445.png)
+![](https://s3.bmp.ovh/imgs/2023/02/10/350bdf7a09527510.png)
 
 ## 上手
 
@@ -12,18 +12,16 @@ openai的注册方式网上有很多，这里就不作过多赘述了。
 
 https://openai.com/
 
-![](C:\Users\Administrator\AppData\Roaming\marktext\images\2023-02-10-10-55-30-image.png)
-
-o## o环境
+![](file://C:\Users\Administrator\AppData\Roaming\marktext\images\2023-02-10-10-55-30-image.png?msec=1675997730977)## 环境
 
 个人环境是go 1.17.10，没有什么特殊的包，应该没有go版本限制
 
-## 
+##
 
 ## 编译
 
 ```
-#.# 都是go自带的编译方式，有经验的可以直接跳过
+## 都是go自带的编译方式，有经验的可以直接跳过
 
 
 windows
@@ -46,5 +44,3 @@ go build
 ## 运行
 ./openAi
 ```
-
-
